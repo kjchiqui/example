@@ -1,0 +1,5 @@
+baseURL = "https://kjchiqui.github.io/static_website/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
+theme = "hugo-minimalist-theme"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://kjchiqui.github.io/static_website/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 10:49:58 -0500</lastBuildDate>
+    
+	<atom:link href="https://kjchiqui.github.io/static_website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://kjchiqui.github.io/static_website/posts/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 10:49:58 -0500</pubDate>
+      
+      <guid>https://kjchiqui.github.io/static_website/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
